@@ -1,0 +1,6 @@
+{
+  "program": "average_calculator.aleo",
+  "version": "1.0.0",
+  "description": "Aleo program to calculate the average of three numbers.",
+  "license": "MIT"
+}
